@@ -8,7 +8,7 @@ def test_add_object():
         name="ObjToAdd",
         data={
             "country": "france",
-            "who": "emna"
+            "who": "emna bejaoui"
         }
     )
 
